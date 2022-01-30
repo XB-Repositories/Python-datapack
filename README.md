@@ -14,4 +14,4 @@ Para más información, el fichero **Tutorial.ipynb** en el directorio *docs* of
 
 - Python 3.8.10
 
-- seaborn (0.11.0), pandas (1.3.2), matplotlib (3.4.3), numpy (1.19.0), ipython (7.18.1)
+- seaborn (0.11.0), pandas (1.3.2), matplotlib (3.4.3), numpy (1.19.0), ipython (8.0.1)
