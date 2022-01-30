@@ -1,0 +1,11 @@
+Code;Fruit;Quantity;Weight;Color;Expensive;Shop
+1;Apple;3;2.2;Red;False;Tienda Marlo
+4;Orange;2;3.1;Orange;False;Tienda Marlo
+3;Banana;5;1.0;Yellow;True;Tienda Pepe
+5;Watermelon;4;9.7;Green;True;Tienda Pepe
+1;Apple;8;1.6;Green;False;Tienda Marlo
+19;Guava;7;4.5;Green;True;Tienda Marlo
+12;Pineapple;1;6.5;Brown;True;Tienda Marlo
+8;Lima;4;2.3;Green;False;Tienda Pepe
+7;Lemon;1;3.8;Yellow;True;Tienda Marlo
+2;Pear;6;2.4;Green;True;Tienda Marlo

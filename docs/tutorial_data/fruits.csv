@@ -1,0 +1,11 @@
+Code,Fruit,Quantity,Weight,Color,Expensive
+1,Apple,3,2.2,Red,False
+4,Orange,2,3.1,Orange,False
+3,Banana,5,1.0,Yellow,True
+5,Watermelon,4,9.7,Green,True
+1,Apple,8,1.6,Green,False
+19,Guava,7,4.5,Green,True
+12,Pineapple,1,6.5,Brown,True
+8,Lima,4,2.3,Green,False
+7,Lemon,1,3.8,Yellow,True
+2,Pear,6,2.4,Green,True

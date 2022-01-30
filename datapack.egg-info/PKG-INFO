@@ -1,0 +1,28 @@
+Metadata-Version: 1.2
+Name: datapack
+Version: 0.0.1
+Summary: Esta librería incluye clases y funciones que pueden utilizarse para trabajar con conjuntos de datos.
+Home-page: UNKNOWN
+Author: Xabier Benavides
+Author-email: xabier.benavides@ehu.eus
+License: LICENSE.txt
+Description: # DESCRIPCIÓN DE LA LIBRERÍA DATAPACK
+        
+        La librería **datapack** ofrece una serie de clases y funciones que pueden ser utilizadas para trabajar con conjuntos de datos. Esta librería está compuesta por tres ficheros principales:
+        
+        - **dataset.py:** Incluye la clase Dataset que es utilizada para guardar, modificar y analizar un conjunto de datos.
+        
+        - **attributes.py:** Incluye las clases necesarias para la gestión de los atributos en el conjunto de datos (Attribute, Numerical, String, Boolean, Categorical).
+        
+        - **plots.py:** Incluye las funciones que permiten representar gráficamente algunas de las métricas disponibles.
+        
+        Para más información, el fichero **Tutorial.ipynb** en el directorio *docs* ofrece una guía rápida para iniciarse en las posibilidades que ofrece esta librería.
+        
+        # REQUERIMIENTOS MÍNIMOS PARA LA INSTALACIÓN
+        
+        - Python 3.8.10
+        
+        - seaborn (0.11.0), pandas (1.3.2), matplotlib (3.4.3), numpy (1.19.0), ipython (7.18.1)
+        
+Platform: UNKNOWN
+Requires-Python: >=3.8.10

@@ -1,0 +1,4 @@
+Version 0.0.1
+2022-01-30
+- First (beta) release on PyPI
+- Compatible with Python 3

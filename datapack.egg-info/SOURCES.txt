@@ -1,0 +1,13 @@
+README.txt
+setup.py
+datapack/__init__.py
+datapack/attributes.py
+datapack/dataset.py
+datapack/plots.py
+datapack.egg-info/PKG-INFO
+datapack.egg-info/SOURCES.txt
+datapack.egg-info/dependency_links.txt
+datapack.egg-info/requires.txt
+datapack.egg-info/top_level.txt
+datapack/test/__init__.py
+datapack/test/test_all.py
