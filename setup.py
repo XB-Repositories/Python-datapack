@@ -17,6 +17,6 @@ setup(
       "pandas >= 1.3.2",
       "matplotlib >= 3.4.3",
       "numpy >= 1.19.0",
-      "ipython >= 8.0.1"
+      "ipython >= 7.31.0"
    ],
 )
