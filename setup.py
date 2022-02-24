@@ -10,7 +10,7 @@ setup(
    license='LICENSE.txt',
    description='Esta librería incluye clases y funciones que pueden utilizarse para trabajar con conjuntos de datos.',
    long_description=open('README.txt').read(),
-   python_requires='>=3.8.10',
+   python_requires='>=3.7.0',
    tests_require=['pytest'],
    install_requires=[
       "seaborn >= 0.11.0",
